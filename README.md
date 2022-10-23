@@ -95,6 +95,6 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d1p32ffla0683a9y/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-events-state-portfolio/branch/main)
 
-
-[GH-Pages]()
+[GH-Pages](https://nikitakurys.github.io/ra-events-state-portfolio/)
